@@ -29,3 +29,7 @@
 - [ ] react-dom
 - [ ] postcss
 - [ ] day.js 
+- [ ] swiper.js
+- [ ] nprogress
+- [ ] rust
+- [ ] go语言
