@@ -33,3 +33,4 @@
 - [ ] nprogress
 - [ ] rust
 - [ ] go语言
+- [ ] npm插件组装
