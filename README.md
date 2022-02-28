@@ -1,4 +1,4 @@
-# literacy-list
+# literacy-list （简称扫盲行动）
 奇怪的库、API 、插件扫盲运动，仅适用于了解。
 
 
