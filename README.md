@@ -8,7 +8,7 @@
 
 - [ ] iview
 - [ ] vue-awesome-swiper
-- [ ] ECharts 
+- [-] ECharts 
 - [ ] antv
 - [ ] ant Design 
 - [ ] tree-sharking,gizp 压缩 
@@ -19,7 +19,7 @@
 - [ ] firstclick.js
 - [ ] baiduMap
 - [ ] iview
-- [ ] vuex 
+- [-] vuex 
 - [ ] vux
 - [ ] router.beforeEach() 
 - [ ] Axios
@@ -29,7 +29,7 @@
 - [ ] react-dom
 - [ ] postcss
 - [ ] day.js 
-- [ ] swiper.js
+- [-] swiper.js
 - [ ] nprogress
 - [ ] rust
 - [ ] go语言
